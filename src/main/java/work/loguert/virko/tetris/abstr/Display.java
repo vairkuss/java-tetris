@@ -1,5 +1,4 @@
-package work.loguert.virko.tetris.matrix;
-
+package work.loguert.virko.tetris.abstr;
 
 import java.util.Arrays;
 

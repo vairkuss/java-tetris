@@ -1,8 +1,6 @@
 package work.loguert.virko.tetris;
 
-
-import work.loguert.virko.tetris.matrix.Display;
-// import java.util.Scanner;
+import work.loguert.virko.tetris.abstr.Display;
 
 
 class Main {
